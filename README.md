@@ -1,6 +1,13 @@
-# 💫 About Me:
-👋 Hi, I'm Sahil<br><br>🎓 MCA (Data Science) Student<br>🤖 Passionate about AI, Generative AI & Data Engineering<br>💻 Building AI-powered applications with Python, FastAPI & React<br>📊 Interested in Machine Learning, LLMs, RAG and Data Analytics<br>🚀 Always learning and building projects.
+## About Me
 
+👋 Hi, I'm Sahil Bhirud
+
+🎓 MCA (Data Science) Student | CGPA: 9.14
+💻 AI & GenAI Developer | Software Engineer
+🤖 Building AI-powered applications with Python, FastAPI & React
+🧠 Working with LLMs, RAG & Machine Learning
+📊 Exploring Data Analytics with SQL & Power BI
+🚀 Learning, building, and turning ideas into real-world projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilbhirud2005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilbhirud05@gmail.com)[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=Portfolio&logoColor=white)](https://sahilxai.vercel.app/)
