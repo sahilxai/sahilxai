@@ -1,7 +1,7 @@
 ## About Me
 
 Hi, I'm Sahil Bhirud.<br>
-🎓MCA (Data Science) Student | CGPA: 9.14<br><br>
+🎓MCA (Data Science) Student | CGPA: 9.14<br>
 AI & GenAI Developer | Software Engineer<br>
 Building AI-powered applications with Python, FastAPI & React, with a focus on LLMs, RAG & Machine Learning.<br>
 Also working with SQL & Power BI for Data Analytics.
